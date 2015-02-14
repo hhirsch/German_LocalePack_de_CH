@@ -2,8 +2,14 @@
     "name": "mawoscha/german-localepack-de-ch",
     "type": "magento-module",
     "license":"OSL-3.0",
-    "description":"German Community Translation",
+    "description":"German (Swiss) Community Translation",
     "authors":[
+        {
+            "name":"Rico Neitzel"
+        },
+        {
+            "name":"Nick Weisser"
+        },
         {
             "name":"MaWoScha"
         }

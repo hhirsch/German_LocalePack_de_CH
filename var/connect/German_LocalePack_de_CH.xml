@@ -4,7 +4,6 @@
    <channel>community</channel>
    <version_ids>
       <version_ids>2</version_ids>
-      <version_ids>1</version_ids>
    </version_ids>
    <summary>German Community Modules - German (Switzerland) Language Pack</summary>
    <description>Paquete de idioma español para Magento Commerce - Versión para Suiza
@@ -19,12 +18,18 @@ Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</d
    <notes>Übersetzungen noch in Arbeit</notes>
    <authors>
       <name>
+         <name>Rico Neitzel</name>
+         <name>Nick Weisser</name>
          <name>Manfred Worm Schäfer</name>
       </name>
       <user>
+         <user>rizi</user>
+         <user>nickw108</user>
          <user>MaWoScha</user>
       </user>
       <email>
+         <email>rico@buro71a.de</email>
+         <email>nick@openstream.ch</email>
          <email>manfredwormschaefer@gmail.com</email>
       </email>
    </authors>
@@ -205,7 +210,7 @@ Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</d
          <path>de_CH/Mage_Widget.csv</path>
          <path>de_CH/Mage_Wishlist.csv</path>
          <path>de_CH/Mage_XmlConnect.csv</path>
-         <path>de_CH/German_LocaleCo.csv</path>
+         <path>de_CH/German_LocaleCh.csv</path>
       </path>
       <type>
          <type>file</type>
