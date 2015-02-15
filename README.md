@@ -1,4 +1,4 @@
-# Deutsches Sprachpaket für Magento (CE)
+# Deutsches Magento (CE) Sprachpaket für die Schweiz
 (Magento Community Modules - German (Switzerland) Language Pack)<br />
 (Módulos de Magento Community - Paquete de idioma alemán)
 
