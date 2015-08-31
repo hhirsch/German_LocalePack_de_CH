@@ -1,21 +1,21 @@
 <_>
-   <form_key></form_key>
+   <form_key>IRBDghQ5vhol5oHa</form_key>
    <name>German_LocalePack_de_CH</name>
    <channel>community</channel>
    <version_ids>
       <version_ids>2</version_ids>
    </version_ids>
    <summary>German Community Modules - German (Switzerland) Language Pack</summary>
-   <description>Paquete de idioma español para Magento Commerce - Versión para Suiza
+   <description>Deutsches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz
 
-Spanish language pack for Magento Commerce - Version for Switzerland
+German language pack for Magento Commerce - Version for Switzerland
 
-Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</description>
+Paquete de idioma alemana para Magento Commerce - Versión para Suiza</description>
    <license>OSL</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>0.1.0</version>
+   <version>0.4.0</version>
    <stability>stable</stability>
-   <notes>Übersetzungen noch in Arbeit</notes>
+   <notes>none</notes>
    <authors>
       <name>
          <name>Rico Neitzel</name>
@@ -50,7 +50,7 @@ Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</d
             <max/>
          </max>
          <files>
-            <files>                                                                                                </files>
+            <files>                                                                                                 </files>
          </files>
       </package>
       <extension>
@@ -68,6 +68,7 @@ Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</d
    <contents>
       <target>
          <target>magelocal</target>
+         <target>magedesign</target>
          <target>magedesign</target>
          <target>magedesign</target>
          <target>magecommunity</target>
@@ -143,6 +144,7 @@ Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</d
          <path/>
          <path>adminhtml/default/default/locale/de_CH/translate.csv</path>
          <path>frontend/default/default/locale/de_CH/translate.csv</path>
+         <path>frontend/rwd/default/locale/de_CH/translate.csv</path>
          <path>German/LocalePackCh</path>
          <path>modules/German_LocalePackCh.xml</path>
          <path>de_CH/Mage_Adminhtml.csv</path>
@@ -213,6 +215,7 @@ Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</d
          <path>de_CH/German_LocaleCh.csv</path>
       </path>
       <type>
+         <type>file</type>
          <type>file</type>
          <type>file</type>
          <type>file</type>
@@ -357,9 +360,11 @@ Spanisches Sprachpaket für Magento Commerce - Sprachversion für die Schweiz</d
          <include/>
          <include/>
          <include/>
+         <include/>
       </include>
       <ignore>
          <ignore/>
+         <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>

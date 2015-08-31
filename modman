@@ -18,6 +18,7 @@ app/locale/de_CH/German_LocaleCh.csv app/locale/de_CH/German_LocaleCh.csv
 #Adminhtml und Default Theme
 app/design/adminhtml/default/default/locale/de_CH/translate.csv     app/design/adminhtml/default/default/locale/de_CH/translate.csv
 app/design/frontend/default/default/locale/de_CH/translate.csv      app/design/frontend/default/default/locale/de_CH/translate.csv
+app/design/frontend/rwd/default/locale/de_CH/translate.csv          app/design/frontend/rwd/default/locale/de_CH/translate.csv
 
 #CoreTranslation
 app/locale/de_CH/Mage_Adminhtml.csv app/locale/de_CH/Mage_Adminhtml.csv
